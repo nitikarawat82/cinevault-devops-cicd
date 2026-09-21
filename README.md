@@ -74,6 +74,21 @@ SimpleGithubActionsProject/
 ```
 
 ---
+ ## 🛠️ Technologies Used:
+ 
+- Python & Flask — Application development
+- HTML, CSS & JavaScript — Frontend
+- Git & GitHub — Version control and source code management
+- GitHub Actions — CI/CD automation
+- Pytest — Automated testing
+- Docker — Application containerization
+- Amazon ECR — Docker image storage
+- AWS EC2 — Live application deployment
+- AWS Systems Manager (SSM) — Remote deployment automation
+- AWS IAM — Access control and permissions
+- Linux — Server environment
+  
+---
 
 # 1️⃣ Build the Flask Application
 
